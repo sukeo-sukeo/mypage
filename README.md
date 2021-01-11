@@ -1,4 +1,9 @@
 # my_page
+herokuURL
+expressサーバー$&mysql(cleardb)にて稼働中...
+https://my-page-3939.herokuapp.com/
+
+
 
 ## Project setup
 ```
